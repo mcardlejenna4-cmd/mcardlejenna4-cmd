@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently studying software engineering and I am learning to use github for the first time. 
+I'm currently working on an astro project.
+
 <!--
 **mcardlejenna4-cmd/mcardlejenna4-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
